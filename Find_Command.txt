@@ -1,3 +1,4 @@
 How to find all files in the system belonging to Natasha and copy them to /root/findfiles
 
 #find / -user Natasha -exec -cp -a {} /root/findfiles \;
+#find / -user Natasha -exec -cp -a {} /root/findfiles \;
